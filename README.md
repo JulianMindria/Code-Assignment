@@ -8,7 +8,7 @@
 
   </a>
 
-  <h3 align="center">Rebuild Mockup with KedaTech</h3>
+  <h3 align="center">Rebuild Mockup with React and Javascript unit testing</h3>
 
   <p align="center">
     <br />
@@ -20,7 +20,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project provided by KedaTech as one of the requirement to find eligible candidate for their company
+There are three branch in this project as you can see, main branch will tell you the general method
+to explore this project. TASK 1 branch contains the first task where I complete several logic 
+questions using javascript and at the same time complete the unit testing one by one using JEST. The react branch
+contains a project which is assigned to recreating a website landing page from a mockup using the react library.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -35,44 +38,16 @@ This project is based on :
 * [![nodejs][nodejs.js]][nodejs-url]
 * [![react][react.js]][react-url]
 * [![DaisyUI][DaisyUI.js]][DaisyUI-url]
+* ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+
+<p><strong>HTML : </strong>I'm using HTML to markup my landing page <br />
+  <strong>Tailwind : </strong>I'm Using Tailwind CSS to speed up my development as Tailwind CSS is designed to speed up the development process. It provides a set of utility classes that you can use directly in your HTML, which eliminates the need to write custom CSS for many common styles. This can significantly reduce development time.<br />
+  <strong>DaisyUI : </strong>DaisyUI provides a collection of ready-to-use UI components and patterns, such as buttons, forms, modals, and navigation bars. This can save you a significant amount of time compared to building these components from scratch or customizing them individually.<br />
+  <strong>JEST : </strong>If you're working with React, Jest is often recommended as it pairs nicely with React's testing library (React Testing Library) and allows for easy testing of React components. Jest also actively maintained by Facebook, which provides confidence in its stability and longevity. 
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This project worker can follow the steps below:
-
-### Installation
-
-1. You have to install nodejs first
-2. Clone the repo
-   ```sh
-   git clone https://github.com/sasmeka/frontend_wallet_tictac_team.git
-   ```
-3. Open terminal / cmd from your project folder
-4. To install dependencies
-   ```sh
-   npm install
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-1. Open terminal / cmd from your project folder
-2. To run type command
-   ```sh
-   npm start
-   
-   #OR
-
-   npm run react-scripts start
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -90,5 +65,6 @@ This project worker can follow the steps below:
 [react-url]: https://react.dev/
 [DaisyUI.js]: https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white
 [DaisyUI-url]: https://daisyui.com/
+
    ```
 
