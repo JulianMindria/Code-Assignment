@@ -3,15 +3,15 @@ import React from 'react'
 function pricing() {
   return (
     <>
-        <section id='pricingpage' className='h-screen top-0'>
+        <section id='pricingpage' className='h-screen relative top-44'>
             <div className='flex flex-col justify-center items-center'>
-                <div className='text-center flex flex-col gap-y-4 text-lg text-gray-600'>
+                <div className='text-center flex flex-col gap-y-4 text-lg text-gray-600 px-4'>
                     <h1 className='lg:text-4xl text-2xl font-bold text-sky-400'>Try Dunked free for 10 days<br /> Start your trial now, pick a plan later</h1>
                     <h2 className='text-gray-400'>No credit card required. No obligation. No risk</h2>
                 </div>
                 <button className='mt-8 w-56 h-12 border bg-black hover:bg-white hover:text-black border hover:border-black font-bold text-xl rounded-md items-center text-white'>GET STARTED</button>
             </div>
-            <div className='relative gap-x-5 flex max-w-5xl mx-auto overflow-x-auto px-5 py-5 mt-4'>
+            <div className='gap-x-5 flex max-w-5xl items-center mx-auto overflow-x-auto px-5 py-5 mt-4'>
                 <div className='w-[300px] h-[550px] p-6 border border-gray-400 rounded-lg flex-shrink-0'>
                     <div className='flex flex-col gap-y-2 items-center my-4'>
                         <h3 className='text-gray-600'>Tier 1</h3>

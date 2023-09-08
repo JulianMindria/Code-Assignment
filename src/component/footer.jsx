@@ -7,7 +7,7 @@ import ig from '../../src/assets/bx_bxl-instagram.jpg'
 function footer() {
   return (
     <>
-  <footer className="mx-auto flex flex-col md:flex-row max-w-7xl justify-between px-10 py-20 gap-y-16 md:gap-x-2">
+  <footer className="mx-auto flex flex-col md:flex-row max-w-7xl justify-between px-10 md:pt-0 pt-96 gap-y-16 md:gap-x-2">
     <div>
       <h1 className='font-bold text-gray-700 text-lg'>KEDA TECH</h1>
       <p className="font-medium text-gray-700 mt-2 leading-8 tracking-wider">

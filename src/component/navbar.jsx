@@ -100,7 +100,7 @@ function Navbar() {
         </div>
         <div className="dropdown dropdown-end lg:hidden ">
             <label tabIndex={0} className="btn m-1 text-4xl"><HiOutlineBars3 /></label>
-            <ul tabIndex={0} className="absolute dropdown-content z-[1] menu p-2 shadow bg-base-100 items-center text-lg font-bold text-gray-600 rounded-lg w-96">
+            <ul tabIndex={0} className="absolute dropdown-content z-[1] menu p-2 shadow bg-base-100 items-center text-lg font-bold text-gray-600 rounded-lg w-64">
                 <li><a href='#aboutpage'>ABOUT</a></li>
                 <hr />
                 <li><a href='#pricingpage'>PRICING</a></li>
