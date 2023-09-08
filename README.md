@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was deployed in Netlify [Click here](https://64fb08a527d5636ca842caea--wonderful-medovik-8d1980.netlify.app/)
+This project was deployed in Netlify [Click here](https://64fb25cac3c30c05179de336--wonderful-medovik-8d1980.netlify.app/)
 
 ## Available Scripts
 
