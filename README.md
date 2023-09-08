@@ -41,7 +41,7 @@ This project is based on :
 * ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 
-<p><strong>HTML : </strong>I'm using HTML to markup my landing page <br />
+<p>
   <strong>Tailwind : </strong>I'm Using Tailwind CSS to speed up my development as Tailwind CSS is designed to speed up the development process. It provides a set of utility classes that you can use directly in your HTML, which eliminates the need to write custom CSS for many common styles. This can significantly reduce development time.<br />
   <strong>DaisyUI : </strong>DaisyUI provides a collection of ready-to-use UI components and patterns, such as buttons, forms, modals, and navigation bars. This can save you a significant amount of time compared to building these components from scratch or customizing them individually.<br />
   <strong>JEST : </strong>If you're working with React, Jest is often recommended as it pairs nicely with React's testing library (React Testing Library) and allows for easy testing of React components. Jest also actively maintained by Facebook, which provides confidence in its stability and longevity. 
