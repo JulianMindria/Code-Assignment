@@ -20,10 +20,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are three branch in this project as you can see, main branch will tell you the general method
-to explore this project. TASK 1 branch contains the first task where I complete several logic 
-questions using javascript and at the same time complete the unit testing one by one using JEST. The react branch
-contains a project which is assigned to recreating a website landing page from a mockup using the react library.
+There are three branch in this project as you can see,   
+<p>
+  <strong>main branch : </strong>main branch will tell you the general method to explore this project.<br />
+  <strong>TASK_1 branch : </strong>TASK_1 branch contains the first task where I complete several logic questions using javascript and at the same time complete the unit testing one by one using JEST.<br />
+  <strong>TASK_2 branch : </strong>This branch contains a project which is assigned to recreating a website landing page from a mockup using the react library.<br />
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
