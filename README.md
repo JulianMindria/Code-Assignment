@@ -20,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project were made for practice testing and improving ReactJs skill, also to finish Application requirement at KedaTech
+This project provided by KedaTech as one of the requirement to find eligible candidate for their company
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -34,6 +34,7 @@ This project is based on :
 * [![javascript][javascript.js]][javascript-url]
 * [![nodejs][nodejs.js]][nodejs-url]
 * [![react][react.js]][react-url]
+* [![DaisyUI][DaisyUI.js]][DaisyUI-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,9 +84,11 @@ This project worker can follow the steps below:
 [javascript-url]: https://www.javascript.com/
 [nodejs.js]: https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 [nodejs-url]: https://nodejs.org/
+[nodejs.js]: https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[nodejs-url]: https://nodejs.org/
 [react.js]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white
 [react-url]: https://react.dev/
+[DaisyUI.js]: https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white
+[DaisyUI-url]: https://daisyui.com/
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
